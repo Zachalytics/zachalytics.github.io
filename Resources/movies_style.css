@@ -2,6 +2,16 @@
     box-sizing: border-box;
 }
 
+.title {
+    height: 400px;
+    background-image: url(./pics/background/timemeal.jpg);
+    background-position: center ;
+    background-size: contain;
+    background-repeat:repeat-x;
+    font-family: cursive;
+    color:rgb(55, 62, 87);
+}
+
 header {
     border: thin dotted black;
     text-align: center;
